@@ -1,0 +1,21 @@
+# requirements.txt
+
+# Text-to-Speech and Translation
+gtts==2.2.2
+googletrans==4.0.0-rc1
+
+# File and Audio Handling
+playsound==1.2.2
+
+# GUI
+Pillow==8.3.1
+tk==0.1.0
+
+# PDF Handling
+PyPDF2==1.26.0
+
+# Speech Synthesis
+pyttsx3==2.90
+
+# Additional Libraries
+difflib==3.7.4
